@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "title": "Breakthrough in Renewable Energy",
+    "description": "Scientists have developed a new solar panel technology that doubles energy efficiency.",
+    "img": "img-1.jpg",
+    "createdAt": "2023-10-01T08:00:00Z",
+    "number_of_likes": 1200,
+    "number_of_views": 5000,
+    "author_name": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "Global Tech Conference 2023 Highlights",
+    "description": "The annual tech conference showcased innovations in AI, robotics, and quantum computing.",
+    "img": "img-2.jpg",
+    "createdAt": "2023-10-05T10:30:00Z",
+    "number_of_likes": 850,
+    "number_of_views": 3200,
+    "author_name": "Jane Smith"
+  },
+  {
+    "id": 3,
+    "title": "New COVID-19 Variant Detected",
+    "description": "Health officials are monitoring a new variant with increased transmissibility.",
+    "img": "img-3.jpg",
+    "createdAt": "2023-10-10T14:15:00Z",
+    "number_of_likes": 950,
+    "number_of_views": 4500,
+    "author_name": "Alice Johnson"
+  },
+  {
+    "id": 4,
+    "title": "Mars Rover Discovers Signs of Ancient Water",
+    "description": "NASA's rover found evidence of water flow on Mars billions of years ago.",
+    "img": "img-4.jpg",
+    "createdAt": "2023-10-12T09:45:00Z",
+    "number_of_likes": 2000,
+    "number_of_views": 8000,
+    "author_name": "Michael Brown"
+  },
+  {
+    "id": 5,
+    "title": "World's Largest Wind Farm Goes Online",
+    "description": "The new wind farm in the North Sea can power over 1 million homes.",
+    "img": "img-5.jpg",
+    "createdAt": "2023-10-15T11:20:00Z",
+    "number_of_likes": 1300,
+    "number_of_views": 6000,
+    "author_name": "Emily Davis"
+  },
+  {
+    "id": 6,
+    "title": "AI-Powered Robot Wins Cooking Competition",
+    "description": "A robot chef defeated human chefs in a prestigious cooking contest.",
+    "img": "img-6.jpg",
+    "createdAt": "2023-10-18T16:00:00Z",
+    "number_of_likes": 1700,
+    "number_of_views": 7000,
+    "author_name": "David Wilson"
+  },
+  {
+    "id": 7,
+    "title": "Record-Breaking Heatwave Hits Europe",
+    "description": "Temperatures soared to unprecedented levels, causing widespread disruptions.",
+    "img": "img-7.jpg",
+    "createdAt": "2023-10-20T12:10:00Z",
+    "number_of_likes": 900,
+    "number_of_views": 4000,
+    "author_name": "Sarah Miller"
+  },
+  {
+    "id": 8,
+    "title": "New Cancer Treatment Shows Promising Results",
+    "description": "A breakthrough immunotherapy treatment has shown a 70% success rate in trials.",
+    "img": "img-8.jpg",
+    "createdAt": "2023-10-22T07:50:00Z",
+    "number_of_likes": 2500,
+    "number_of_views": 9000,
+    "author_name": "James Garcia"
+  },
+  {
+    "id": 9,
+    "title": "Major Earthquake Strikes Southeast Asia",
+    "description": "A 7.5 magnitude earthquake caused significant damage and casualties.",
+    "img": "img-9.jpg",
+    "createdAt": "2023-10-25T18:30:00Z",
+    "number_of_likes": 1100,
+    "number_of_views": 5500,
+    "author_name": "Linda Martinez"
+  },
+  {
+    "id": 10,
+    "title": "SpaceX Launches New Satellite Constellation",
+    "description": "SpaceX successfully deployed 60 satellites for global internet coverage.",
+    "img": "img-10.jpg",
+    "createdAt": "2023-10-28T20:00:00Z",
+    "number_of_likes": 1800,
+    "number_of_views": 7500,
+    "author_name": "Robert Anderson"
+  },
+  {
+    "id": 11,
+    "title": "Historic Peace Agreement Signed",
+    "description": "Two nations ended decades of conflict with a landmark peace treaty.",
+    "createdAt": "2023-10-30T13:45:00Z",
+    "number_of_likes": 1400,
+    "number_of_views": 6500,
+    "author_name": "Patricia Taylor"
+  },
+  {
+    "id": 12,
+    "title": "World's Deepest Underwater Cave Explored",
+    "description": "Divers set a new record by exploring a cave over 400 meters deep.",
+    "createdAt": "2023-11-01T09:00:00Z",
+    "number_of_likes": 1600,
+    "number_of_views": 7200,
+    "author_name": "William Thomas"
+  }
+]
